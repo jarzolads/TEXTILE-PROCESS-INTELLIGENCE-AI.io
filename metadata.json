@@ -1,0 +1,8 @@
+{
+  "name": "Remix TEXTILE PROCESS INTELLIGENCE AI",
+  "description": "Dashboard Inteligente para KPIs, Calidad y Mejora Continua de una empresa de manufactura textil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
